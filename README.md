@@ -23,8 +23,6 @@ Every dataset tells a story, and I enjoy uncovering it.
 
 I'm a **Data Analyst** with hands-on experience in data analytics, machine learning, dashboard development, and backend API development. I enjoy working with data to discover patterns, solve business problems, and transform complex information into meaningful insights that support better decision-making.
 
-My work spans the complete analytics lifecycle—from data cleaning and exploratory data analysis to interactive dashboards, predictive modeling, and deployment.
-
 I'm currently seeking opportunities where I can contribute as a **Data Analyst**, continue learning from experienced teams, and grow my expertise in **Machine Learning** and **Artificial Intelligence**.
 
 ---
@@ -38,7 +36,6 @@ I'm currently seeking opportunities where I can contribute as a **Data Analyst**
 - 📈 Creating interactive dashboards with Power BI & Tableau
 - ⚡ Developing backend APIs using FastAPI
 - ☁️ Deploying applications on AWS, Render, and Vercel
-- 📚 Continuously improving analytical thinking and problem-solving
 
 ---
 
@@ -160,7 +157,7 @@ I'm currently seeking opportunities where I can contribute as a **Data Analyst**
 
 # 📚 Learning Journey
 
-I believe continuous learning is one of the most valuable investments for a data professional. Alongside academic learning, I actively complete certifications and hands-on programs to strengthen my analytical, technical, and problem-solving skills.
+I believe continuous learning is one of the most valuable investments for a data professional.
 
 ## Certifications
 
@@ -288,16 +285,6 @@ markdown
 📍 **Ghaziabad, Uttar Pradesh, India**
 
 </p>
-
----
-
-# 💭 My Philosophy
-
-> *"Good analysis doesn't just explain what happened—it helps people decide what to do next."*
-
-I believe data becomes valuable only when it leads to better decisions. Whether I'm cleaning datasets, building dashboards, training machine learning models, or developing APIs, my goal is to create solutions that are practical, reliable, and easy to understand.
-
-I approach every project with curiosity, attention to detail, and a mindset of continuous learning.
 
 ---
 
