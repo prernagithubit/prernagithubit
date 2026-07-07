@@ -1,7 +1,7 @@
 
 
 ---
-<h1 align="center">Hi 👋, I'm Prerna Sharma</h1>
+<h1 align="center">Hi,I'm Prerna Sharma</h1>
 
 <h3 align="center">
 Data Analyst • AI/ML Enthusiast • Python Developer
@@ -13,22 +13,6 @@ Data Analyst • AI/ML Enthusiast • Python Developer
 
 <p align="center">
 I enjoy transforming raw data into meaningful insights through analytics, visualization, and machine learning.
-</p>
-
-<p align="center">
-
-<a href="https://github.com/prernagithubit">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prerna-sharma-b74060251/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sharmaprerna1983@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -171,90 +155,6 @@ I'm currently seeking opportunities where I can contribute as a **Data Analyst**
 ✔ Experienced in data cleaning, feature engineering, statistical analysis, and exploratory data analysis
 
 ✔ Passionate about using data to solve business problems and support data-driven decision-making
-
----
-markdown
----
-
-# 🌟 Projects That Define My Journey
-
-Rather than just building projects, I focus on solving practical problems using data, analytics, and machine learning. Each project has helped me strengthen my analytical thinking, technical skills, and understanding of real-world business challenges.
-
----
-
-## 📊 HR Analytics Dashboard
-
-### Turning Workforce Data into Actionable Business Insights
-
-An interactive HR analytics dashboard developed to analyze employee demographics, attrition trends, salary distribution, departmental performance, and workforce diversity. The dashboard enables stakeholders to explore HR metrics through interactive visualizations and filters.
-
-**Tech Stack**
-
-`Tableau` • `Excel` • `Data Visualization`
-
-### Key Highlights
-
-- 📈 Analyzed **8,950+ employee records**
-- 📊 Designed interactive KPI dashboards
-- 👥 Employee demographic analysis
-- 💼 Department-wise workforce insights
-- 💰 Salary distribution by education level
-- 📉 Attrition trend analysis
-- 🎯 Interactive filters for better decision-making
-
-**Repository**
-
-🔗 *Add GitHub Repository Link*
-
----
-
-## 🤖 Loan Approval Prediction System
-
-### Machine Learning for Smarter Loan Decisions
-
-A machine learning application that predicts whether a loan application is likely to be approved based on applicant information. The project demonstrates the complete ML workflow, from preprocessing and feature engineering to model evaluation and deployment.
-
-**Tech Stack**
-
-`Python` • `Scikit-learn` • `Pandas` • `NumPy` • `Streamlit`
-
-### Key Highlights
-
-- 🤖 Data preprocessing & cleaning
-- 📊 Exploratory Data Analysis (EDA)
-- ⚙️ Feature Engineering
-- 📈 Model Training & Evaluation
-- 🎯 Loan Approval Prediction
-- 🌐 Interactive Streamlit Interface
-
-**Repository**
-
-🔗 *Add GitHub Repository Link*
-
----
-
-## 📈 Interactive Data Analysis Dashboard
-
-### Explore Data Without Writing Code
-
-An interactive Streamlit application that allows users to upload datasets and instantly perform exploratory data analysis through automated visualizations and statistical summaries.
-
-**Tech Stack**
-
-`Python` • `Streamlit` • `Plotly` • `Pandas`
-
-### Key Highlights
-
-- 📂 CSV File Upload
-- 📊 Automatic Dataset Summary
-- 📉 Correlation Analysis
-- 📈 Interactive Charts
-- 🧹 Data Cleaning Overview
-- 📋 Statistical Summary
-
-**Repository**
-
-🔗 *Add GitHub Repository Link*
 
 ---
 
