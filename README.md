@@ -19,8 +19,6 @@ I enjoy transforming raw data into meaningful insights through analytics, visual
 
 # 👩‍💻 About Me
 
-Every dataset tells a story, and I enjoy uncovering it.
-
 I'm a **Data Analyst** with hands-on experience in data analytics, machine learning, dashboard development, and backend API development. I enjoy working with data to discover patterns, solve business problems, and transform complex information into meaningful insights that support better decision-making.
 
 I'm currently seeking opportunities where I can contribute as a **Data Analyst**, continue learning from experienced teams, and grow my expertise in **Machine Learning** and **Artificial Intelligence**.
@@ -139,7 +137,7 @@ I'm currently seeking opportunities where I can contribute as a **Data Analyst**
 
 # 💼 Career Snapshot
 
-✔ Data Analysis Intern at **ABES Institute of Technology**
+✔ Data Analysis Trainee at **ABES Institute of Technology**
 
 ✔ Built end-to-end analytics projects using Python, SQL, Power BI, Tableau, and Streamlit
 
@@ -183,8 +181,6 @@ I believe continuous learning is one of the most valuable investments for a data
 ---
 
 # 💼 Core Competencies
-
-✔ Data Analytics
 
 ✔ Data Cleaning
 
