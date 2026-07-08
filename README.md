@@ -306,10 +306,6 @@ I'm always open to learning, meaningful collaborations, and opportunities where 
 
 ---
 
-### **Analyzing Data. Building Insights. Solving Problems.**
-
-*"Turning data into decisions, one project at a time."*
-
 </div>
 
 
