@@ -228,35 +228,7 @@ I enjoy collaborating with teams that value curiosity, continuous learning, and 
 markdown
 ---
 
-# 📈 GitHub Insights
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prernagithubit&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernagithubit&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prernagithubit&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prernagithubit&theme=github-compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prernagithubit&theme=github_dark"/>
-
-</p>
-
----
 
 # 🤝 Let's Connect
 
