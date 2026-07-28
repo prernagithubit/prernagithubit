@@ -161,7 +161,6 @@ I believe continuous learning is one of the most valuable investments for a data
 
 - 🎓 GenAI-Powered Data Analytics Job Simulation
 - 🐍 Python 101 for Data Science (IBM)
-- 📊 Power BI Certification
 - 📈 Tableau Certification
 - ☁️ AWS Cloud Learning
 - 📚 Master Data Analysis (Udemy)
@@ -182,47 +181,34 @@ I believe continuous learning is one of the most valuable investments for a data
 
 # 💼 Core Competencies
 
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Dashboard Development
-
+📊 Data Cleaning & Preprocessing
+🔍 Exploratory Data Analysis (EDA)
+📈 Dashboard Development
+📉 Data Visualization
+🗄️ SQL Query Writing & Optimization
+🤖 Machine Learning
+⚙️ Feature Engineering
+📐 Statistical Analysis
+🔗 REST API Development
+🖥️ Backend Integration
+💡 Business Insights & Data Storytelling
 ✔ Data Visualization
 
-✔ SQL Query Optimization
-
-✔ Machine Learning
-
-✔ Feature Engineering
-
-✔ Statistical Analysis
-
-✔ REST API Development
-
-✔ Backend Integration
-
-✔ Business Insight Generation
 
 ---
 
 # 🎯 Open To Opportunities
 
-I'm actively looking for opportunities where I can contribute, learn, and grow while solving real-world business problems through data.
+I'm actively seeking opportunities where I can apply my analytical and technical skills to solve real-world business challenges while continuing to learn and grow as a data professional.
 
-**Interested Roles**
+💼 Roles I'm Interested In
+📊 Data Analyst
+🤖 Machine Learning Engineer (Entry Level)
+🐍 Python Developer
+📈 Business Intelligence Analyst
+📚 Data Engineer (Entry Level)
 
-- 📊 Data Analyst
-
-- 🤖 Machine Learning Engineer (Entry Level)
-
-- 🐍 Python Developer
-
-- 📈 Business Intelligence Analyst
-
-- 📚 Data Engineer (Entry Level)
-
-I enjoy collaborating with teams that value curiosity, continuous learning, and data-driven decision-making.
+I enjoy working in collaborative environments that encourage innovation, continuous learning, and data-driven decision-making.
 
 ---
 markdown
@@ -255,16 +241,6 @@ markdown
 </p>
 
 ---
-
-# 🌱 Beyond the Code
-
-Outside of building projects, I spend time:
-
-- 📚 Learning new concepts in Data Analytics and Machine Learning
-- 📈 Practicing SQL and Python through hands-on datasets
-- 🧠 Strengthening problem-solving and analytical thinking
-- ☁️ Exploring modern tools and cloud technologies
-- 🚀 Continuously improving my technical portfolio
 
 ---
 
