@@ -139,7 +139,9 @@ Data-driven analyst with hands-on experience building predictive models, designi
 
 ## 📚 Education & Certifications
  
-## Bachelor of Technology (B.Tech) **Computer Science & Engineering (Data Science)** **ABES Institute of Technology, Ghaziabad** 📅 **2022 – 2026**
+## Bachelor of Technology (B.Tech) **Computer Science & Engineering (Data Science)** 
+**ABES Institute of Technology, Ghaziabad**
+📅 **2022 – 2026**
 
 ---
  
@@ -171,23 +173,20 @@ Data-driven analyst with hands-on experience building predictive models, designi
 - **Cloud Platforms:** AWS (EC2, S3, Lambda), GCP BigQuery
 - **Advanced SQL:** Window functions, CTEs, query optimization for large datasets
 - **RAG & LLM Applications:** Retrieval-Augmented Generation, prompt engineering
-- 
+  
 ---
 
-
-# 🎯 Open To Opportunities
-
-I'm actively seeking opportunities where I can apply my analytical and technical skills to solve real-world business challenges while continuing to learn and grow as a data professional.
-
-💼 Roles I'm Interested In
-📊 Data Analyst
-🤖 Machine Learning Engineer (Entry Level)
-🐍 Python Developer
-📈 Business Intelligence Analyst
-📚 Data Engineer (Entry Level)
-
-I enjoy working in collaborative environments that encourage innovation, continuous learning, and data-driven decision-making.
-
+## 🎯 Role Interests & Career Goals
+ 
+**Actively Seeking:**
+- 📊 **Data Analyst** (Entry-Level / Fresher)
+- 📈 **Business Intelligence Analyst**
+- 🤖 **Machine Learning Engineer** (Entry-Level)
+- 🐍 **Python Developer** (Data-focused)
+- 📚 **Data Engineer** (Entry-Level)
+**Preferred Locations:** Noida, Gurugram, Bengaluru , Delhi
+ 
+**Industries:** FinTech, E-commerce, InsurTech, Analytics, Healthcare, B2B SaaS
 ---
 markdown
 ---
@@ -219,7 +218,14 @@ markdown
 </p>
 
 ---
-
+## ✨ Why Hire Me?
+ 
+✅ **Proven Results:** Built and deployed 5+ production data projects with measurable business impact  
+✅ **Full-Stack Capability:** End-to-end project ownership from data ingestion → analysis → visualization → API deployment  
+✅ **ATS-Ready Skills:** SQL, Python, Tableau, Power BI, FastAPI, Git, AWS fundamentals  
+✅ **Quick Learner:** Demonstrated ability to master new tools and frameworks independently  
+✅ **Problem Solver:** Data-driven approach to identifying root causes and delivering actionable insights  
+✅ **Collaborative:** Experienced in translating technical findings for non-technical stakeholders  
 ---
 
 <div align="center">
