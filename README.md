@@ -188,8 +188,6 @@ Data-driven analyst with hands-on experience building predictive models, designi
  
 **Industries:** FinTech, E-commerce, InsurTech, Analytics, Healthcare, B2B SaaS
 ---
-markdown
----
 
 
 
@@ -228,7 +226,11 @@ markdown
 ✅ **Collaborative:** Experienced in translating technical findings for non-technical stakeholders  
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prernagithubit&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 
 ## ⭐ Thank You for Visiting
 
