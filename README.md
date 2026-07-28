@@ -174,50 +174,20 @@ Seeking **Data Analyst** or **Business Intelligence Analyst** opportunities wher
 
 # 💼 Core Competencies
 
-### 📊 Data-Specific
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Statistical Analysis
-- Data Validation
-- ETL Pipeline Design
-- Dashboard Design
-- KPI Tracking
-- Data Storytelling
-
-### 💻 Technical
-
-- Python Automation
-- SQL Query Optimization
-- REST API Development
-- Backend Integration
-- Database Design
-- Version Control (Git)
-- OAuth & JWT Authentication
-
-### 📈 Business
-
-- Business Intelligence
-- Business Insights
-- Stakeholder Communication
-- Root Cause Analysis
-- Process Automation
-- Problem Solving
+**Data-Specific:** Data Cleaning | Data Preprocessing | EDA | Feature Engineering | Statistical Analysis | Data Validation | ETL Pipeline Design | Dashboard Design | KPI Tracking | Data Storytelling
+ 
+**Technical:** Python Automation | SQL Query Optimization | API Development | Full-Stack Integration | Version Control | Database Design | OAuth Implementation
+ 
+**Business:** Business Insights Extraction | Stakeholder Communication | Problem Solving | Business Intelligence | Process Automation | Root Cause Analysis
 
 ---
 
 # 🚀 Currently Learning & Exploring
 
-- 🤖 Advanced Machine Learning
-- 🧠 Deep Learning Fundamentals
-- 💬 Natural Language Processing (NLP)
-- ☁️ AWS (EC2, S3, Lambda)
-- ☁️ Google BigQuery
-- 🗄 Advanced SQL (Window Functions & CTEs)
-- 🚀 RAG Applications
-- 🤖 Prompt Engineering & LLMs
+- **Advanced Machine Learning:** Deep Learning, NLP fundamentals
+- **Cloud Platforms:** AWS (EC2, S3, Lambda), GCP BigQuery
+- **Advanced SQL:** Window functions, CTEs, query optimization for large datasets
+- **RAG & LLM Applications:** Retrieval-Augmented Generation, prompt engineering
 
 ---
 
