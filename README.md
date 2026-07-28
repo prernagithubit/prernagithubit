@@ -1,9 +1,9 @@
 
 
 ---
-<h1 align="center">Hi,I'm Prerna Sharma</h1>
+<h1 align="left">Hi,I'm Prerna Sharma</h1>
 
-<h3 align="center">
+<h3 align="left">
 Data Analyst • AI/ML Enthusiast • Python Developer
 </h3>
 
