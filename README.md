@@ -7,11 +7,11 @@
 Data Analyst • AI/ML Enthusiast • Python Developer
 </h3>
 
-<p align="center">
+<p align="left">
 <b>Analyzing Data. Building Insights. Solving Problems.</b>
 </p>
 
-<p align="center">
+<p align="left">
 I enjoy transforming raw data into meaningful insights through analytics, visualization, and machine learning.
 </p>
 
