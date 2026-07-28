@@ -17,14 +17,6 @@ I enjoy transforming raw data into meaningful insights through analytics, visual
 
 ---
 
-# 👩‍💻 About Me
-
-I'm a **Data Analyst** with hands-on experience in data analytics, machine learning, dashboard development, and backend API development. I enjoy working with data to discover patterns, solve business problems, and transform complex information into meaningful insights that support better decision-making.
-
-I'm currently seeking opportunities where I can contribute as a **Data Analyst**, continue learning from experienced teams, and grow my expertise in **Machine Learning** and **Artificial Intelligence**.
-
----
-
 ## 📊 Professional Summary
  
 Data-driven analyst with hands-on experience building predictive models, designing automated data pipelines, and delivering business intelligence solutions. Proven ability to deliver measurable impact through data storytelling and evidence-based recommendations. Seeking **Data Analyst** or **Business Intelligence Analyst** roles where I can leverage SQL, Python, and visualization expertise to solve complex business challenges.
