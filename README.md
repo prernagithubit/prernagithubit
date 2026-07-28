@@ -4,7 +4,7 @@
 <h1 align="left">Hi,I'm Prerna Sharma</h1>
 
 <h3 align="left">
-Data Analyst • AI/ML Enthusiast • Python Developer
+Data Analyst • AI/ML Enthusiast 
 </h3>
 
 <p align="left">
@@ -133,19 +133,21 @@ Data-driven analyst with hands-on experience building predictive models, designi
 
 </p>
 
+---
+
 
 
 ## 📚 Education & Certifications
  
-**Bachelor of Technology (B.Tech) — Computer Science & Engineering**  
-ABES Institute of Technology, Ghaziabad, UP | *2022 – 2026*  
-CGPA: 7.13/10
+## Bachelor of Technology (B.Tech) **Computer Science & Engineering (Data Science)** **ABES Institute of Technology, Ghaziabad** 📅 **2022 – 2026**
+
+---
  
 ### **Certifications & Training**
 - ✅ GenAI-Powered Data Analytics Job Simulation (Forage)
-- ✅ Python 101 for Data Science (IBM)
+- ✅ Python for Data Science (IBM)
 - ✅ Tableau Desktop Specialist Certification
-- ✅ HackerRank SQL (5-Star)
+- ✅ HackerRank SQL 
 - ✅ Master Data Analysis (Udemy)
 - ✅ AWS Cloud Essentials (In Progress)
 
@@ -153,21 +155,25 @@ CGPA: 7.13/10
 
 # 💼 Core Competencies
 
-📊 Data Cleaning & Preprocessing
-🔍 Exploratory Data Analysis (EDA)
-📈 Dashboard Development
-📉 Data Visualization
-🗄️ SQL Query Writing & Optimization
-🤖 Machine Learning
-⚙️ Feature Engineering
-📐 Statistical Analysis
-🔗 REST API Development
-🖥️ Backend Integration
-💡 Business Insights & Data Storytelling
-✔ Data Visualization
+**Data-Specific:** Data Cleaning | Data Preprocessing | EDA | Feature Engineering | Statistical Analysis | Data Validation | ETL Pipeline Design | Dashboard Design | KPI Tracking | Data Storytelling
+ 
+**Technical:** Python Automation | SQL Query Optimization | API Development | Full-Stack Integration | Version Control | Database Design | OAuth Implementation
+ 
+**Business:** Business Insights Extraction | Stakeholder Communication | Problem Solving | Business Intelligence | Process Automation | Root Cause Analysis
 
 
 ---
+
+ 
+## 🚀 Currently Learning & Exploring
+ 
+- **Advanced Machine Learning:** Deep Learning, NLP fundamentals
+- **Cloud Platforms:** AWS (EC2, S3, Lambda), GCP BigQuery
+- **Advanced SQL:** Window functions, CTEs, query optimization for large datasets
+- **RAG & LLM Applications:** Retrieval-Augmented Generation, prompt engineering
+- 
+---
+
 
 # 🎯 Open To Opportunities
 
