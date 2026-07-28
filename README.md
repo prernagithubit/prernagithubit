@@ -25,6 +25,14 @@ I'm currently seeking opportunities where I can contribute as a **Data Analyst**
 
 ---
 
+## 📊 Professional Summary
+ 
+Data-driven analyst with hands-on experience building predictive models, designing automated data pipelines, and delivering business intelligence solutions. Proven ability to deliver measurable impact through data storytelling and evidence-based recommendations. Seeking **Data Analyst** or **Business Intelligence Analyst** roles where I can leverage SQL, Python, and visualization expertise to solve complex business challenges.
+ 
+**Key Focus Areas:** Data Analysis | Business Intelligence | Predictive Modeling | Dashboard Design | SQL Query Optimization | Python Automation
+
+---
+
 # 🚀 What I'm Working On
 
 - 📊 Building end-to-end Data Analytics projects
