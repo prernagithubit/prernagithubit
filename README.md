@@ -133,49 +133,21 @@ Data-driven analyst with hands-on experience building predictive models, designi
 
 </p>
 
----
 
-# 💼 Career Snapshot
 
-✔ Data Analysis Trainee at **ABES Institute of Technology**
-
-✔ Built end-to-end analytics projects using Python, SQL, Power BI, Tableau, and Streamlit
-
-✔ Developed interactive dashboards to transform raw datasets into business insights
-
-✔ Built Machine Learning applications using Python and Scikit-learn
-
-✔ Developed RESTful APIs using FastAPI, JWT Authentication, and SQLAlchemy
-
-✔ Experienced in data cleaning, feature engineering, statistical analysis, and exploratory data analysis
-
-✔ Passionate about using data to solve business problems and support data-driven decision-making
-
----
-
-# 📚 Learning Journey
-
-I believe continuous learning is one of the most valuable investments for a data professional.
-
-## Certifications
-
-- 🎓 GenAI-Powered Data Analytics Job Simulation
-- 🐍 Python 101 for Data Science (IBM)
-- 📈 Tableau Certification
-- ☁️ AWS Cloud Learning
-- 📚 Master Data Analysis (Udemy)
-
----
-
-# 🎓 Academic Background
-
-## Bachelor of Technology (B.Tech)
-
-**Computer Science & Engineering (Data Science)**
-
-**ABES Institute of Technology, Ghaziabad**
-
-📅 **2022 – 2026**
+## 📚 Education & Certifications
+ 
+**Bachelor of Technology (B.Tech) — Computer Science & Engineering**  
+ABES Institute of Technology, Ghaziabad, UP | *2022 – 2026*  
+CGPA: 7.13/10
+ 
+### **Certifications & Training**
+- ✅ GenAI-Powered Data Analytics Job Simulation (Forage)
+- ✅ Python 101 for Data Science (IBM)
+- ✅ Tableau Desktop Specialist Certification
+- ✅ HackerRank SQL (5-Star)
+- ✅ Master Data Analysis (Udemy)
+- ✅ AWS Cloud Essentials (In Progress)
 
 ---
 
