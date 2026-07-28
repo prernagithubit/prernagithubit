@@ -1,25 +1,20 @@
 
-<!-- ===================================================== -->
-<!--            GITHUB PROFILE README - PRERNA SHARMA      -->
-<!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Prerna Sharma</h1>
+<h1 align="left">Hi, I'm Prerna Sharma</h1>
 
-<h3 align="center">
+<h3 align="left">
 Data Analyst • AI/ML Enthusiast
 </h3>
 
-<p align="center">
+<p align="left">
 <b>Analyzing Data. Building Insights. Solving Problems.</b>
 </p>
 
-<p align="center">
+<p align="left">
 I enjoy transforming raw data into meaningful insights through analytics, visualization, and machine learning.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prernagithubit&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+
 
 ---
 
@@ -36,16 +31,6 @@ Seeking **Data Analyst** or **Business Intelligence Analyst** opportunities wher
 `Data Analysis` • `Business Intelligence` • `Predictive Modeling` • `Dashboard Design` • `SQL Query Optimization` • `Python Automation`
 
 ---
-
-# 🚀 What I'm Working On
-
-- 📊 Building end-to-end Data Analytics projects
-- 🤖 Expanding my Machine Learning knowledge
-- 🐍 Writing efficient Python for data analysis
-- 🗄️ Strengthening SQL for business insights
-- 📈 Creating interactive dashboards with Power BI & Tableau
-- ⚡ Developing backend APIs using FastAPI
-- ☁️ Deploying applications on AWS, Render & Vercel
 
 ---
 
