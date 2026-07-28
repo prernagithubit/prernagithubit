@@ -239,12 +239,10 @@ FinTech • E-commerce • Healthcare • SaaS
 
 Thank you for taking the time to explore my GitHub profile!
 
-Whether you're a recruiter, hiring manager, collaborator, or fellow learner, I appreciate your visit.
-
 I'm always open to exciting opportunities, meaningful collaborations, and conversations about Data Analytics, Machine Learning, and AI.
 
 ### 🚀 Let's build something impactful together!
 
 </div>
-```
+
 
